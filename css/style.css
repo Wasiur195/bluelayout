@@ -1,0 +1,228 @@
+.header{
+	border:2px solid red;
+	min-height: 100px;
+	overflow: hidden;
+}
+.logo{
+	border: 2px solid blue;
+	min-height: 80px;
+	float: left;
+	width:80px;
+	margin-bottom:5px;
+	margin-top: 7px;
+	margin-left: 10px;
+
+}
+.header1{
+	border:2px solid red;
+	min-height: 100px;
+	float: right;
+	width:750px;
+	margin-bottom:5px;
+	margin-top: 7px;
+	margin-right:  16px;
+
+	overflow: hidden;
+}
+.header2{
+	border:2px solid red;
+	min-height: 40px;
+	float: right;
+	width:500px;
+	margin-bottom:5px;
+	margin-top: 7px;
+	margin-right:  16px;
+
+
+}
+.header3{
+	border:2px solid red;
+	min-height: 40px;
+	float: right;
+	width:600px;
+	margin-bottom:5px;
+	margin-top: 7px;
+	margin-right:  16px;
+
+}
+.sec{
+	border:2px solid green;
+	min-height: 20px;
+	float: left;
+	width:100px;
+	margin-bottom:5px;
+	margin-top: 7px;
+	margin-left:  31px;
+
+}
+.banner{
+	border:2px solid red;
+	min-height: 250px;
+	overflow: hidden;
+
+}
+.bannerc{
+	border:2px solid red;
+	min-height: 200px;
+	float: left;
+	width:500px;
+	margin-bottom:5px;
+	margin-top: 13px;
+	margin-left:  16px;
+
+}
+.service{
+
+	border:2px solid red;
+	min-height: 250px;
+	overflow: hidden;
+
+}
+.part1{
+	border:2px solid red;
+	min-height: 200px;
+	float: left;
+	width:25%;
+	margin-bottom:5px;
+	margin-top: 13px;
+	margin-left:  90px;
+
+}
+.content{
+	border:2px solid red;
+	min-height: 60px;
+	float: right;
+	width:200px;
+	margin-bottom:5px;
+	margin-top: 10px;
+	margin-right:  16px;
+
+
+}
+.para{
+	border:2px solid red;
+	min-height: 100px;
+	
+	width:200px;
+	margin-bottom:5px;
+	margin-top: 100px;
+	margin-left:  45px;
+
+}
+
+.contact{
+	border:2px solid red;
+	min-height: 250px;
+	overflow: hidden;
+
+
+}
+.part2{
+	border:2px solid red;
+	min-height: 200px;
+	float: left;
+	width:25%;
+	margin-bottom:5px;
+	margin-top: 13px;
+	margin-left:  90px;
+
+
+}
+.para1{
+	border:2px solid red;
+	min-height: 100px;
+	
+	width:250px;
+	margin-bottom:5px;
+	margin-top: 45px;
+	margin-left:  80px;
+}
+.logob{
+	border: 2px solid blue;
+	min-height: 150px;
+	float: left;
+	width:84px;
+	margin-bottom:5px;
+	margin-top: 15px;
+	margin-left: 20px;
+
+}
+.para2{
+	border:2px solid red;
+	min-height: 40px;
+	
+	width:300px;
+	margin-bottom:5px;
+	margin-top: 10px;
+	margin-left:  150px;
+
+}
+.para3{
+	border:2px solid red;
+	min-height: 100px;
+	
+	width:250px;
+	margin-bottom:5px;
+	margin-top: 15px;
+	margin-left:  150px;
+
+
+}
+.footer{
+	border:2px solid red;
+	min-height: 150px;
+	overflow: hidden;
+
+
+}
+.foo{
+	border:2px solid red;
+	min-height: 64px;
+	float: left;
+	width:45%;
+	margin-bottom:5px;
+	margin-top: 13px;
+	margin-left:  30px;
+	overflow: hidden;
+
+}
+.foot{
+	border:2px solid red;
+	min-height: 10px;
+	float: left;
+	width:12%;
+	margin-bottom:5px;
+	margin-left: 30px;
+	margin-top: 5px
+
+}
+.foo7{
+	border:2px solid red;
+	min-height: 10px;
+	width:45%;
+	margin-left: 30px;
+	margin-top: 45px;
+
+}
+.moo{
+	border:2px solid red;
+	min-height: 40px;
+	width:20%;
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+	
+
+}
+.moo1{
+	border:2px solid red;
+	min-height: 40px;
+	width:20%;
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+
+
+}
+
+
